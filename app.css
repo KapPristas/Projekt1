@@ -1,14 +1,11 @@
-body {
-    margin: auto;
-    padding: 50px;
-    width: 720px;
-}
+
 
 .btn {
    margin-top: 10px;
 }
 
-.mb-1 {
-    width: 310px;
+.form-wrapper{
+    margin: auto;
+    padding: 50px;
+    width: 720px;
 }
-
